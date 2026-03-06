@@ -9,7 +9,7 @@ El siguiente .sh consiste en un código que ejecuta un ejecutable que detecta da
 -sudo apt-get install gnuplot
 
 # Archivos necesarios:
--Practica_1.sh
+-Practica_1.sh /n
 -sensores.py
 
 # Archivos producidos:
