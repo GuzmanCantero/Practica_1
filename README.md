@@ -22,8 +22,7 @@ El siguiente .sh consiste en un código que ejecuta un ejecutable que detecta da
 -grafica.png
 
 # Datos a recalcar
-Desde las 12:00 hasta las 12:45 del 6/3, los sensores no muestran datos y no puedo demostrar que el programa funciona, a pesar de haberlo comprobado ayer. Probaré más adelante. (./Ejecutables/mqtt_subscribe_emqx_linux no muestra los datos, no es que los datos no aparezcan en el .txt)
-<img width="968" height="187" alt="image" src="https://github.com/user-attachments/assets/3adfd848-a630-4563-88ed-7d0133e5b8d4" />  
+Ayer se cambiaron los nombres de todos los sensores, como "AmbientHumidity" a "humidity_rh", e incluso se añadió uno nuevo, pero el programa funciona con los nuevos nombres de sensores. No habrá problemas con ellos.  
 
 Los datos mostrados se ven mucho mejor con cantidades de tiempo largas, como es de esperar en una gráfica.  
 
